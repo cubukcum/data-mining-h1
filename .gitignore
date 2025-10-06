@@ -183,7 +183,7 @@ output/
 results/
 plots/
 figures/
-*.png
+
 *.jpg
 *.jpeg
 *.pdf
